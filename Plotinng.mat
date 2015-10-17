@@ -1,0 +1,9 @@
+
+for a=[1:98]
+    b=x;
+    B=P*b;
+    y=[L\B];
+    x=[U\y];
+    %plot(w,x,'md','Linewidth',[1]);
+    %pause(0.01);
+end
